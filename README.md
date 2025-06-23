@@ -12,23 +12,23 @@ Used tcpdump and Wireshark inside Kali Linux VM to sniff and analyze packets. Pr
 ## 🖼️ Screenshots
 ### ✅ Step 1: Install Tools (if not already installed)
 Terminal installing or confirming installation of tools.
-![Screenshot 1](screenshots/Sc1.png)
+![Screenshot 1](Screenshots/Sc1.png)
 
 ---
 
 ### ✅ Step 2: Live Packet Sniffing with tcpdump
 Watch live traffic flow through your VM interface.
-![Screenshot 2](screenshots/Sc2.png)
+![Screenshot 2](Screenshots/Sc2.png)
 
 ---
 
 ### ✅ Step 3: Save and analyze packets on wireshark
 Store captured packets in a .pcap file and analyze packets using GUI filters.
-![Screenshot 3](screenshots/sc3.png)
-![Screenshot 3](screenshots/SC3b.png)
-![Screenshot 3](screenshots/Sc3c.png)
-![Screenshot 3](screenshots/Sc3d.png)
-![Screenshot 3](screenshots/Sc3e.png)
+![Screenshot 3](Screenshots/sc3.png)
+![Screenshot 3](Screenshots/SC3b.png)
+![Screenshot 3](Screenshots/Sc3c.png)
+![Screenshot 3](Screenshots/Sc3d.png)
+![Screenshot 3](Screenshots/Sc3e.png)
 
 
 
